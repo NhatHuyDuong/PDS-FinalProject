@@ -45,7 +45,7 @@ This dataset can be used for a variety of analyses:
 ## Setup Instructions:
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/NhatHuyDuong/PDS-FinalProject.git
     ```
 2. Navigate to the project directory:
     ```sh
