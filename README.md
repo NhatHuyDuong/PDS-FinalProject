@@ -59,5 +59,6 @@ This dataset can be used for a variety of analyses:
     + If there are some libraries not included in your kernel, please run command prompt and write `pip install required-library`.
 
 ## Project Management:
-We are using Jira for project management. You can track our progress and view our backlog on our [Jira Board](https://truongthuankiet1990.atlassian.net/jira/software/projects/DSPROG/boards/1/backlog).
+- We are using Jira for project management. You can track our progress and view our backlog on our [Jira Board](https://truongthuankiet1990.atlassian.net/jira/software/projects/DSPROG/boards/1/backlog).
+- Also you can view our weekly report here [Weekly Report](https://docs.google.com/spreadsheets/d/1EBzu9Ba2m1Y7ebredIADUoYvHyVAzCdMSyuH5lSVE6k/edit?gid=0#gid=0)
 
